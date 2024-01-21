@@ -3,3 +3,5 @@ cartofi
 lambo
 ferrari
 patrunjel
+papanas
+chifti
